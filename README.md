@@ -9,10 +9,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-> Coding, building useful stuff (sometimes).
+> Coding, building stuff (sometimes its useful).
 
 ## Projects
 
+- 🦞 **[Enclav](https://github.com/Samermadieh/enclav)** - Create an isolated, local OpenClaw instance in a minute. No CLI.
 - 🥽 **[SimpleXR](https://www.simplexr.net/)** - Create native XR apps from your browser in minutes.
 - 🕹️ **[VR UI Package](https://assetstore.unity.com/packages/3d/gui/vr-ui-package-249282?srsltid=AfmBOorc5h2Ni3YceJ65PUVWLNSocCKtMFYCB1Na3SLT8vgy6i8wLrsD)** - UI for VR apps simplified.
 - 📺 **[RealaryVR](https://www.youtube.com/@realaryvr)** - Teaching VR development with Unity.
